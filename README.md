@@ -7,7 +7,8 @@
 
 
 ### For 2018, we see a different story. The average volume for these tickers was relatively stable at 275,503,183. However, all but two stocks had negative percent changes when comparing the end of 2018 vs the beginning of 2018 stock prices. The average percent change for this set of stocks was -8.51%. Similar to 2017, the run time for the refactored code was far less than the original code. 
-1. 
+1. https://github.com/cwbyrd/Stock-Analysis/blob/main/2018%20Stock%20Results.png
+2. 
 
 
 ## Summary
