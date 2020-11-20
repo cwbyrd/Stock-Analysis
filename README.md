@@ -2,8 +2,9 @@
 ## The purpose of this project is to show the volume of trades and the year end price vs the beginning close price percent change for a set of tickers representing 12 companies. Additionally, we are showing the performance of the original design vs refactored code, and discussing the advantages and disadvantages of refactoring.
 ## Results
 ### For 2017, we can see that the average volume was 263,886,592 for this set of stock tickers. All but one of the tickers had positive change during 2017. The average percent change at the end of 2017 vs the beginning was 67.32%. As the image below shows, the run time for the refactored code is far less than the original code.
-https://github.com/cwbyrd/Stock-Analysis/commit/b65b9c383cb821214b2524b8447f32554dd85d36
-https://github.com/cwbyrd/Stock-Analysis/commit/dc5bf62114643ce43798a8b0db3f364db92b8fd7
+1. https://github.com/cwbyrd/Stock-Analysis/blob/main/2017%20Stock%20Results.png
+2. 
+
 
 ### For 2018, we see a different story. The average volume for these tickers was relatively stable at 275,503,183. However, all but two stocks had negative percent changes when comparing the end of 2018 vs the beginning of 2018 stock prices. The average percent change for this set of stocks was -8.51%. Similar to 2017, the run time for the refactored code was far less than the original code. 
 
