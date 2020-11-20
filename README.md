@@ -3,10 +3,11 @@
 ## Results
 ### For 2017, we can see that the average volume was 263,886,592 for this set of stock tickers. All but one of the tickers had positive change during 2017. The average percent change at the end of 2017 vs the beginning was 67.32%. As the image below shows, the run time for the refactored code is far less than the original code.
 1. https://github.com/cwbyrd/Stock-Analysis/blob/main/2017%20Stock%20Results.png
-2. 
+2. https://github.com/cwbyrd/Stock-Analysis/blob/main/VBA_Challenge_2017.png
 
 
 ### For 2018, we see a different story. The average volume for these tickers was relatively stable at 275,503,183. However, all but two stocks had negative percent changes when comparing the end of 2018 vs the beginning of 2018 stock prices. The average percent change for this set of stocks was -8.51%. Similar to 2017, the run time for the refactored code was far less than the original code. 
+1. 
 
 
 ## Summary
